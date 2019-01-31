@@ -1,0 +1,4 @@
+#ignore the output folder
+output
+#ignore the java 
+*.java
